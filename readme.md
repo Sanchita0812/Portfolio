@@ -10,7 +10,9 @@ Features-
 
 <li><b>Contact Form</b>– Get in touch with me directly.</li>
 
-SOURCES AND CREDITS:
+<br>
+
+<b>SOURCES AND CREDITS:</b>
 
 I've used the following resources as listed.
 
